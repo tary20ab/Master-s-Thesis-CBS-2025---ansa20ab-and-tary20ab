@@ -1,4 +1,4 @@
-# Master's Thesis CBS, AEF 2025 – Nordic Green High-Yield Bond Market
+# Master's Thesis CBS, AEF 2025 – Green Bonds, Red Flags? An Empirical Assessment of Green Bonds in Nordic High-Yield Investing
 
 Authors: Ane Jelstad Sandanger (S143957) and Tale Marie Ryan (S145998)
 
